@@ -1,0 +1,9 @@
+{
+	"name": "adfnetflix20250423",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f5d146dc-624c-4a21-b761-17f941c1dadc",
+		"tenantId": "56f68628-700c-43c1-ab8e-540ada8889b3"
+	}
+}
